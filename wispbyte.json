@@ -1,0 +1,6 @@
+{
+  "name": "ping-services",
+  "runtime": "python3",
+  "entry": "main.py",
+  "cron": "*/5 * * * *"
+}
