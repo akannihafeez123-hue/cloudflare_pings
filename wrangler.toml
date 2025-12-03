@@ -1,7 +1,0 @@
-name = "ping-services"
-main = "src/index.js"
-compatibility_date = "2025-12-03"
-account_id = "27f3d4e3a270d5d1bb8671e83a6329"
-
-[triggers]
-crons = ["*/5 * * * *"] # every 5 minutes
