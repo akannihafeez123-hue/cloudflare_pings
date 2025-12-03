@@ -1,6 +1,0 @@
-{
-  "name": "ping-services",
-  "runtime": "nodejs18",
-  "entry": "src/index.js",
-  "cron": "*/5 * * * *"
-}
